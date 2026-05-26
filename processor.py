@@ -21,7 +21,7 @@ from dnd_api import upload_dnd_file
 
 from reply_generator import generate_reply
 
-from Shared.tvs_ticket_actions import (
+from tvs_ticket_actions import (
     assign_tvs_agent,
     send_tvs_reply,
     finalize_tvs_ticket
